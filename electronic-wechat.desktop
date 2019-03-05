@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Wechat
+Name[zh_CN]=微信电脑版
+Name[zh_TW]=微信电脑版
+Exec=/home/fengliang/bin/electronic-wechat/dist/electronic-wechat-linux-x64/electronic-wechat
+Icon=/home/fengliang/bin/electronic-wechat/assets/Wechat.png
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;Utility;Network;InstantMessaging;
+StartupNotify=false
